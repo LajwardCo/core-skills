@@ -1,0 +1,5 @@
+{
+  "name": "core-tools",
+  "description": "For everyone: your todo list, daily report, 'task done' Zulip updates, and Claude Code helpers (mac-guard, resume-any, archive)",
+  "author": { "name": "core-skills" }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "core-skills",
+  "owner": { "name": "core-skills" },
+  "description": "Everyday Claude Code skills: todo list, daily report, task-done updates, and session helpers",
+  "plugins": [
+    { "name": "core-tools", "source": "./plugins/core-tools",
+      "description": "Todo list, daily report, 'task done' Zulip updates, and Claude Code helpers (mac-guard, resume-any, archive)" }
+  ]
+}
